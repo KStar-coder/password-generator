@@ -1,6 +1,7 @@
-# React + Vite
+# Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### This is a Password Generation Web App that helps users generate a random password.
+#### The password can be as long as 50 characters.
 
 Currently, two official plugins are available:
 
