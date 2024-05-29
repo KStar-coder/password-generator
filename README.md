@@ -1,19 +1,32 @@
-# Password Generator
 
-### This is a Password Generation Web App that helps users generate a random password.
-#### The password can be as long as 50 characters.
+# Password generator
+
+This is a Password Generation Web App that helps users generate a random password of upto 50 characters.
 
 
-Currently, two official plugins are available:
+## Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the project
 
-### To get this code in your system, clone this Repository using 
-git clone 
+```bash
+  https://github.com/KStar-coder/password-generator.git
+```
 
-### Then go to the directory on terminal and run the command:
-npm i
+Go to the project directory
 
-### Then ones the dependencies are installed, run the command:
-npm run dev
+```bash
+  cd password-generator
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
