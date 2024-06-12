@@ -1,5 +1,6 @@
 
 
+
 # Password generator
 
 This is a Password Generation Web App that helps users generate a random password of upto 50 characters.
