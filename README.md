@@ -9,7 +9,6 @@ Clone the project
 ```bash
   https://github.com/KStar-coder/password-generator.git
 ```
-
 Go to the project directory
 
 ```bash
