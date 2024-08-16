@@ -14,6 +14,7 @@ Go to the project directory
 ```bash
   cd password-generator
 ```
+
 Install dependencies
 
 ```bash
