@@ -5,7 +5,6 @@ This is a Password Generation Web App that helps users generate a random passwor
 ## Run Locally
 
 Clone the project
-
 ```bash
   https://github.com/KStar-coder/password-generator.git
 ```
